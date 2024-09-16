@@ -1,0 +1,13 @@
+{
+  "name": "hono-handson",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.6.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.1",
+    "@types/bun": "latest"
+  }
+}
